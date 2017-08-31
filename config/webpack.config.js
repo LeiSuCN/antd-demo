@@ -15,6 +15,10 @@ module.exports = {
 	  path: path.resolve(paths.appBuild),
 	},
 
+	resolve: {
+	  extensions: ['.js','.json','.jsx']
+	},
+
 	module: {
 	  rules:[
 	    {
