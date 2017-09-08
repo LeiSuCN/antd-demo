@@ -21,8 +21,8 @@
   "dependencies": {
     "antd": "^2.12.8",
     "babel-plugin-import": "^1.4.0",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react": "^16.0.0-rc.2",
+    "react-dom": "^16.0.0-rc.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.3",
